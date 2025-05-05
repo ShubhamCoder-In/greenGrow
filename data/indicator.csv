@@ -1,0 +1,25 @@
+TLA,indicator,issue_tla,issue_cat
+BCA,Black Carbon Growth Rate,CCH,Climate Change Mitigation
+BHV,Biodiversity Habitat Index,BDH,Biodiversity & Habitat
+CDA,CO₂ Growth Rate,CCH,Climate Change Mitigation
+CHA,CH₄ Growth Rate,CCH,Climate Change Mitigation
+FGA,F-Gas Growth Rate,CCH,Climate Change Mitigation
+FSS,Fish Stock Status,FSH,Fisheries
+GHP,GHG Emissions per Capita,CCH,Climate Change Mitigation
+GIB,GHG Intensity Trend,CCH,Climate Change Mitigation
+HAD,Household Solid Fuels,AIR,Air Quality
+MSW,Controlled Solid Waste,WMG,Waste Management
+NDA,N₂O Growth Rate,CCH,Climate Change Mitigation
+OCP,Ocean Plastic Pollution,WMG,Waste Management
+PMD,PM2.5 Exposure,AIR,Air Quality
+REC,Recycling Rates,WMG,Waste Management
+RMS,Marine Trophic Index,FSH,Fisheries
+SHI,Species Habitat Index,BDH,Biodiversity & Habitat
+SNM,Sustainable Nitrogen Mgmt. Index,AGR,Agriculture
+SPU,Sustainable Pesticide Use,AGR,Agriculture
+TBG,Terrestrial Biome Protection (global),BDH,Biodiversity & Habitat
+TBN,Terrestrial Biome Protection (national),BDH,Biodiversity & Habitat
+TCL,Tree Cover Loss,ECS,Ecosystem Services
+UWD,Unsafe Drinking Water,H2O,Sanitation & Drinking Water
+WTL,Wetland Loss,ECS,Ecosystem Services
+WWT,Wastewater Treatment,WRS,Water Resources
